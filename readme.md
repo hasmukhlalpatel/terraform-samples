@@ -2,6 +2,11 @@
 
 ## Set up Terraform access to Azure
 
+### Install and configure
+Visit [MSDN](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/terraform-install-configure)
+### Create a complete Linux virtual machine 
+Visit [MSDN](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/terraform-create-complete-vm)
+
 ### Get Account list 
 ```
 az account list
