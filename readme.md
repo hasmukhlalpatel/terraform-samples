@@ -31,3 +31,5 @@ export ARM_TENANT_ID=your_tenant_id
 # Not needed for public, required for usgovernment, german, china
 export ARM_ENVIRONMENT=public
 ```
+
+### Run Azure CLI in a [Docker container] {https://docs.microsoft.com/en-gb/cli/azure/run-azure-cli-docker?view=azure-cli-latest}
