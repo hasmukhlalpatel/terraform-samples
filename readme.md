@@ -33,3 +33,7 @@ export ARM_ENVIRONMENT=public
 ```
 
 ### Run Azure CLI in a [Docker container](https://docs.microsoft.com/en-gb/cli/azure/run-azure-cli-docker?view=azure-cli-latest)
+
+### Quickstart for Bash in [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
+
+### Getting Started [Terraform](https://www.terraform.io/intro/getting-started/install.html)
